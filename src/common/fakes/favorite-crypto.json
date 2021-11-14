@@ -1,0 +1,20 @@
+{
+  "message": "Divisas",
+  "statusCode": 200,
+  "data": {
+    "Currencies": [
+      {
+        "id": 1,
+        "name": "eur"
+      },
+      {
+        "id": 2,
+        "name": "usd"
+      },
+      {
+        "id": 3,
+        "name": "ars"
+      }
+    ]
+  }
+}

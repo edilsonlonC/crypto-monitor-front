@@ -1,0 +1,18 @@
+{
+  "statusCode": 200,
+  "message": "Cryptos",
+  "data": {
+    "page": 0,
+    "per_page": 0,
+    "CryptoCurrencies": [
+      {
+        "id": "bitcoin",
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "image": "https://assets.coingecko.com/coins/images/1/large/bitcoin.png?1547033579",
+        "current_price": 62046,
+        "last_updated": {}
+      }
+    ]
+  }
+}
